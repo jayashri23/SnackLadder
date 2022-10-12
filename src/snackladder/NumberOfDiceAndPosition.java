@@ -1,4 +1,4 @@
-package snakeandladder;
+package snackladder;
 
 //Report the number of
 //times the dice was

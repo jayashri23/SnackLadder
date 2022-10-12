@@ -1,4 +1,4 @@
-package snakeandladder;
+package snackladder;
 //The Player then checks for
 //a Option. They are No Play,
 //Ladder or Snake. - Use ((RANDOM)) to check for Options - In Case of No Play the player stays in the same

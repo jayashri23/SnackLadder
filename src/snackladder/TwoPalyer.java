@@ -1,4 +1,4 @@
-package snakeandladder;
+package snackladder;
 //Play the game with 2
 //Player. In this case if a
 //Player gets a Ladder

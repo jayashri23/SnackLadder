@@ -1,4 +1,4 @@
-package snakeandladder;
+package snackladder;
 //Ensure the player gets
 //to exact winning
 //position 100. - Note in case the player position go above
